@@ -1,0 +1,7 @@
+{
+  "name": "tool-adoption-plugin",
+  "description": "AI 工具引入輔助套件。引導安裝外部工具、記錄問題、管理專案客製化，保留開發者對關鍵決策的控制權。",
+  "author": {
+    "name": "rueiwang"
+  }
+}
