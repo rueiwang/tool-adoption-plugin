@@ -1,0 +1,18 @@
+{
+  "name": "tool-adoption-plugin",
+  "metadata": {
+    "description": "AI 工具引入輔助套件 — 引導安裝外部工具、記錄問題、管理專案客製化"
+  },
+  "owner": {
+    "name": "rueiwang"
+  },
+  "plugins": [
+    {
+      "name": "tool-adoption-plugin",
+      "description": "AI 工具引入輔助套件。引導安裝外部工具、記錄問題、管理專案客製化，保留開發者對關鍵決策的控制權。",
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://github.com/rueiwang/tool-adoption-plugin"
+    }
+  ]
+}

@@ -1,7 +1,18 @@
 {
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "tool-adoption-plugin",
+  "version": "1.0.0",
   "description": "AI 工具引入輔助套件。引導安裝外部工具、記錄問題、管理專案客製化，保留開發者對關鍵決策的控制權。",
   "author": {
     "name": "rueiwang"
-  }
+  },
+  "homepage": "https://github.com/rueiwang/tool-adoption-plugin",
+  "repository": "https://github.com/rueiwang/tool-adoption-plugin",
+  "license": "MIT",
+  "keywords": [
+    "tool-adoption",
+    "installation",
+    "customization",
+    "workflow"
+  ]
 }
